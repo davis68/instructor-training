@@ -139,6 +139,8 @@ class too much, you could use the occasion to take the small break you
 had planned to take a bit later, giving the helper(s) time to fix the
 problem.
 
+Marking a checkmark `✓` on one color and an X `✗` on the other and posting these at the front of the room can help students keep track.
+
 Remind learners frequently about using their sticky notes, or they (and you) will forget.
 
 > ## Accessibility of Sticky Notes
